@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:55 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:08:08 14:07:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-08-08T14:07:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:07:11 15:39:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-07-11 11:39:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.3821</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000083_Pending Interview Requests/objects/July-August.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">July-August.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">21504</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">48ceac98506d843b615031b29df6e18a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">997283254000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">219</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1251</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">July 9, 2001</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">saa</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="503">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="75" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="444" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="415" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="370" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="74" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="355" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="413" />
+  </statistics>
+</fits>
+
+</combined-fits>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Waveform Audio" mimetype="audio/x-wave" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="OIS Audio Information" toolversion="0.1" />
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/141</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">6578588</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/01-Introduction.wav</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">01-Introduction.wav</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1220265d85c6747101fb1cc819965c8f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531753786000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <audio>
+      <numSamples toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">1644636</numSamples>
+      <sampleRate toolname="OIS Audio Information" toolversion="0.1">44100</sampleRate>
+      <audioDataEncoding toolname="OIS Audio Information" toolversion="0.1" status="CONFLICT">PCM</audioDataEncoding>
+      <audioDataEncoding toolname="Jhove" toolversion="1.16" status="CONFLICT">PCM audio in integer format</audioDataEncoding>
+      <audioDataEncoding toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft PCM</audioDataEncoding>
+      <blockAlign toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">4</blockAlign>
+      <channels toolname="OIS Audio Information" toolversion="0.1">2</channels>
+      <bitDepth toolname="OIS Audio Information" toolversion="0.1">16</bitDepth>
+      <wordSize toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">2</wordSize>
+      <offset toolname="OIS Audio Information" toolversion="0.1">44</offset>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">LITTLE_ENDIAN</byteOrder>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:00:37</duration>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="247">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" executionTime="25" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="236" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="34" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="55" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="152" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="71" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="7" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Waveform Audio" mimetype="audio/x-wave" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="OIS Audio Information" toolversion="0.1" />
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/141</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">131808476</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/02-Governor Jindal.wav</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">02-Governor Jindal.wav</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">df5dfea3225b6f5f5ba768f09297d2fc</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531753832000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <audio>
+      <numSamples toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">32952108</numSamples>
+      <sampleRate toolname="OIS Audio Information" toolversion="0.1">44100</sampleRate>
+      <audioDataEncoding toolname="OIS Audio Information" toolversion="0.1" status="CONFLICT">PCM</audioDataEncoding>
+      <audioDataEncoding toolname="Jhove" toolversion="1.16" status="CONFLICT">PCM audio in integer format</audioDataEncoding>
+      <audioDataEncoding toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft PCM</audioDataEncoding>
+      <blockAlign toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">4</blockAlign>
+      <channels toolname="OIS Audio Information" toolversion="0.1">2</channels>
+      <bitDepth toolname="OIS Audio Information" toolversion="0.1">16</bitDepth>
+      <wordSize toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">2</wordSize>
+      <offset toolname="OIS Audio Information" toolversion="0.1">44</offset>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">LITTLE_ENDIAN</byteOrder>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:12:27</duration>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="5837">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" executionTime="98" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5795" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="501" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="475" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="491" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="802" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="422" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="333" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Waveform Audio" mimetype="audio/x-wave" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="OIS Audio Information" toolversion="0.1" />
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/141</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">131540348</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/03-Senator Vukmir.wav</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">03-Senator Vukmir.wav</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">db96b2cf31b4ec84305f96f28f81e141</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531753868000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <audio>
+      <numSamples toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">32885076</numSamples>
+      <sampleRate toolname="OIS Audio Information" toolversion="0.1">44100</sampleRate>
+      <audioDataEncoding toolname="OIS Audio Information" toolversion="0.1" status="CONFLICT">PCM</audioDataEncoding>
+      <audioDataEncoding toolname="Jhove" toolversion="1.16" status="CONFLICT">PCM audio in integer format</audioDataEncoding>
+      <audioDataEncoding toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft PCM</audioDataEncoding>
+      <blockAlign toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">4</blockAlign>
+      <channels toolname="OIS Audio Information" toolversion="0.1">2</channels>
+      <bitDepth toolname="OIS Audio Information" toolversion="0.1">16</bitDepth>
+      <wordSize toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">2</wordSize>
+      <offset toolname="OIS Audio Information" toolversion="0.1">44</offset>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">LITTLE_ENDIAN</byteOrder>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:12:25</duration>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="5424">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" executionTime="24" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5405" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="55" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="58" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="174" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="621" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="12" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Waveform Audio" mimetype="audio/x-wave" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="OIS Audio Information" toolversion="0.1" />
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/141</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">130855916</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/04-Grace-Marie Turner.wav</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">04-Grace-Marie Turner.wav</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a20a60ffdb5a4744f8572db88a178841</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531753900000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <audio>
+      <numSamples toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">32713968</numSamples>
+      <sampleRate toolname="OIS Audio Information" toolversion="0.1">44100</sampleRate>
+      <audioDataEncoding toolname="OIS Audio Information" toolversion="0.1" status="CONFLICT">PCM</audioDataEncoding>
+      <audioDataEncoding toolname="Jhove" toolversion="1.16" status="CONFLICT">PCM audio in integer format</audioDataEncoding>
+      <audioDataEncoding toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft PCM</audioDataEncoding>
+      <blockAlign toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">4</blockAlign>
+      <channels toolname="OIS Audio Information" toolversion="0.1">2</channels>
+      <bitDepth toolname="OIS Audio Information" toolversion="0.1">16</bitDepth>
+      <wordSize toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">2</wordSize>
+      <offset toolname="OIS Audio Information" toolversion="0.1">44</offset>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">LITTLE_ENDIAN</byteOrder>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:12:21</duration>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="5367">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" executionTime="16" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5352" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="47" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="55" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="148" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="639" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="9" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Waveform Audio" mimetype="audio/x-wave" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="OIS Audio Information" toolversion="0.1" />
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/141</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">7669916</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/05-Conclusion.wav</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">05-Conclusion.wav</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1c823c27013d6ae3ebac42b246d71ee4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531753902000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <audio>
+      <numSamples toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">1917468</numSamples>
+      <sampleRate toolname="OIS Audio Information" toolversion="0.1">44100</sampleRate>
+      <audioDataEncoding toolname="OIS Audio Information" toolversion="0.1" status="CONFLICT">PCM</audioDataEncoding>
+      <audioDataEncoding toolname="Jhove" toolversion="1.16" status="CONFLICT">PCM audio in integer format</audioDataEncoding>
+      <audioDataEncoding toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft PCM</audioDataEncoding>
+      <blockAlign toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">4</blockAlign>
+      <channels toolname="OIS Audio Information" toolversion="0.1">2</channels>
+      <bitDepth toolname="OIS Audio Information" toolversion="0.1">16</bitDepth>
+      <wordSize toolname="OIS Audio Information" toolversion="0.1" status="SINGLE_RESULT">2</wordSize>
+      <offset toolname="OIS Audio Information" toolversion="0.1">44</offset>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">LITTLE_ENDIAN</byteOrder>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:00:43</duration>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="275">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" executionTime="7" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="265" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="36" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="152" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="68" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="9" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">133769</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 10:46:32-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T14:46:32Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 10:46:32-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000009_GOPAC Conservative Ideas in Action/objects/rbrl436cd005_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436cd005_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">55599271736d7c52a78dd6ed5ee70fd8</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531752394000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="770">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="22" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="267" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="94" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="300" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="214" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="749" />
+  </statistics>
+</fits>
+
+</combined-fits>

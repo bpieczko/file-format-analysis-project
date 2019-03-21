@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:43 PM">
+  <identification>
+    <identity format="Graphics Interchange Format" mimetype="image/gif" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">89a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/4</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1333</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000082_Assets/objects/BuiltByNOF.gif</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BuiltByNOF.gif</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e615d85310b61530ea7d38cfb1cc8a15</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">906970846000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <image>
+      <byteOrder toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">little endian</byteOrder>
+      <compressionScheme toolname="Jhove" toolversion="1.16">LZW</compressionScheme>
+      <imageWidth toolname="Jhove" toolversion="1.16">70</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">29</imageHeight>
+      <colorSpace toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">PaletteColor</colorSpace>
+      <orientation toolname="Jhove" toolversion="1.16">normal*</orientation>
+      <bitsPerSample toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">8</bitsPerSample>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="716">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="83" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="637" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="478" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="506" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="352" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="82" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="351" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="270" />
+  </statistics>
+</fits>
+
+</combined-fits>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 7:50 PM">
+  <identification status="CONFLICT">
+    <identity format="Office Open XML Document" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">2007 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/189</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2014-09-09T13:48:00Z</lastmodified>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft Office Word</creatingApplicationName>
+    <creatingApplicationVersion toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">14.0000</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-356-er-000001_Lockheed Martin Exit Conversion Rep Kingston GA10 February 2015 Disk 1 of 1 dvd001/objects/About.docx</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">About.docx</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">42903</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6f9db814bb8e378801ffe1ee104672cb</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1410270504000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <wordCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">314</wordCount>
+      <title toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">IQ System Test Checklist</title>
+      <lineCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">14</lineCount>
+      <paragraphCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">4</paragraphCount>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">jmanner</author>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">1</pageCount>
+      <characterCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">1793</characterCount>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1083">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="37" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="68" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="194" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="31" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="34" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1071" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 7:47 PM">
+  <identification status="PARTIAL">
+    <identity format="Microsoft Access Database" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">2007</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/275</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-356-er-000001_Lockheed Martin Exit Conversion Rep Kingston GA10 February 2015 Disk 1 of 1 dvd001/objects/Corr_Archive.accdb</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Corr_Archive.accdb</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1502461952</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">add412619c93271ec4de19a06dc152d3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1423075430000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="13524">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="338" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="9483" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="832" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="827" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9408" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="789" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="13504" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 7:47 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2015:02:04 18:48:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2015-02-04T18:48:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2015:02:04 18:48:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2015-02-04 13:48:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Office Word</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">14.0000</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-356-er-000001_Lockheed Martin Exit Conversion Rep Kingston GA10 February 2015 Disk 1 of 1 dvd001/objects/Cover Letter.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Cover Letter.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">52224</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3a633a99802155cc14cecadfed249da2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1423075689000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">200</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1140</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">01/14/2009</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">lavrushy</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="658">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="119" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="284" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="476" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="614" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 7:50 PM">
+  <identification>
+    <identity format="ZIP Format" mimetype="application/zip" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="file utility" toolversion="5.11">2.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/263</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-356-er-000001_Lockheed Martin Exit Conversion Rep Kingston GA10 February 2015 Disk 1 of 1 dvd001/objects/GA10JK_DOCUMENTS.zip</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">GA10JK_DOCUMENTS.zip</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">355699757</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">00c3125adb57f9f2c643f49f725e98f7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1416578629000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <container>
+      <originalSize toolname="Droid" toolversion="6.3" status="SINGLE_RESULT">769534282</originalSize>
+      <compressionMethod toolname="Droid" toolversion="6.3" status="SINGLE_RESULT">deflate</compressionMethod>
+      <entries totalEntries="182852" toolname="Droid" toolversion="6.3" status="SINGLE_RESULT">
+        <format name="Office Open XML Document" number="27" />
+        <format name="Microsoft Word Document (Password Protected)" number="245" />
+        <format name="Microsoft Office Encrypted Document" number="389" />
+        <format name="Microsoft Office Owner File" number="245" />
+        <format name="PDF/A" number="14" />
+        <format name="Log File" number="2" />
+        <format name="Interleaf Document" number="245" />
+        <format name="Microsoft Word for MS-DOS Document" number="980" />
+        <format name="Bluetooth Snoop Packet Capture" number="2" />
+        <format name="Microsoft Word Binary File Format" number="736" />
+        <format name="Extensible Markup Language" number="13842" />
+        <format name="Extensible Hypertext Markup Language" number="160" />
+        <format name="WordPerfect Document" number="490" />
+        <format name="PDF/X" number="22" />
+        <format name="Mork" number="1" />
+        <format name="Portable Document Format" number="217" />
+        <format name="Plain text" number="157700" />
+        <format name="Raw JPEG Stream" number="3" />
+        <format name="Tagged Image File Format" number="15" />
+        <format name="Hypertext Markup Language" number="407" />
+        <format name="Vector Markup Language" number="81" />
+        <format name="JPEG File Interchange Format" number="33" />
+        <format name="Portable Network Graphics" number="3" />
+        <format name="Wordperfect Secondary File" number="490" />
+        <format name="MIME Email" number="731" />
+        <format name="Adobe Illustrator" number="16" />
+        <format name="CD-ROM/XA (eXtended Architecture)" number="1" />
+        <format name="JPEG EXIF" number="17" />
+        <format name="OLE2 Compound Document Format" number="5104" />
+        <format name="Microsoft Word for Windows" number="389" />
+        <format name="Stationery for Mac OS X" number="245" />
+      </entries>
+    </container>
+  </metadata>
+  <statistics fitsExecutionTime="176283">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="176271" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="52" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="75143" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="1676" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="8815" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 7:50 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.6</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/20</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">320019</size>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Adobe PDF Library 10.0/Acrobat PDFMaker 10.1 for Word</creatingApplicationName>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2014-09-09T14:33:53Z</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-356-er-000001_Lockheed Martin Exit Conversion Rep Kingston GA10 February 2015 Disk 1 of 1 dvd001/objects/Instructions.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Instructions.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0f2b4ca6cdc0e6f7ed10a5b44bed4d52</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1410273234000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">IQ System Test Checklist</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">jmanner</author>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">7</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1672">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="180" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="69" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="227" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="291" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1643" />
+  </statistics>
+</fits>
+
+</combined-fits>

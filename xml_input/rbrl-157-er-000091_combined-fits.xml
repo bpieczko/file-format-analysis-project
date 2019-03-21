@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/1999EVAL.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1999EVAL.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">56416</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">876342ccdbfedf1985d934da8dcac65c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">949587736000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="169">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="53" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="128" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="156" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="129" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="47" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="24" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="52" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="UNKNOWN">
+    <identity format="Unknown Binary" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/BDAY CALENDARALAR.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BDAY CALENDARALAR.SKW</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">24640</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4cf62eb531ffcf6e17e30e3f304ca998</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967611556000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="210">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="77" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="121" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="105" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="208" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="74" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">626</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/bday calendarCALL.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bday calendarCALL.SKW</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a7e8cee1c0845eb1fd41021a8d8f36fa</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">958554328000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="465">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="74" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="452" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="431" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="447" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="74" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="408" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="132" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">199</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/bday calendarCSCA.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bday calendarCSCA.SKW</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3ee764aefc0c4fa914f134c7c5773455</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">958554484000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="162">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="27" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="39" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="157" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="7" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="10" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="UNKNOWN">
+    <identity format="Unknown Binary" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/BDAY CALENDAREVEN.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BDAY CALENDAREVEN.SKW</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">23747</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a4e8518f59d0a0edb0f178a5909fb992</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967611702000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="146">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="26" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="73" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="87" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="144" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="26" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">8023</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/bday calendarINIT.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bday calendarINIT.SKW</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">959d22c39d5dd44555e16a8fac96da21</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967611542000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="150">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="15" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="57" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="76" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="143" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="49" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="UNKNOWN">
+    <identity format="Unknown Binary" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/BDAY CALENDARMAST.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BDAY CALENDARMAST.SKW</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">796</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a95a82230ea4bec467191a32d4c483f2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967611706000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="142">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="30" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="55" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="138" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="6" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="9" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="UNKNOWN">
+    <identity format="Unknown Binary" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/BDAY CALENDARTASK.SKW</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BDAY CALENDARTASK.SKW</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6848</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">201f94ce55362a3069650680852abc43</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967611702000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="142">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="11" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="50" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="61" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="139" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/book list.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">book list.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6781</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">38aeb9c3ed06fec8cd36febaee41b78f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">939209052000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="136">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="7" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="130" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="13" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="3" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">18589</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/bookmark.htm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bookmark.htm</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b1f50d975ccbc2893c17091049647b68</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">932373106000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">TokenMgrError: Lexical error at line 16, column 16.  Encountered: "_" (95), after : ""</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="178">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="40" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="74" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="84" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="172" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="35" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="15" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/fourfreedoms.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">fourfreedoms.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">15542</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">55156c658804b9f889606ff078f011dc</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">957420836000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="169">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="158" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="17" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="6" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="9" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/Template/Standard.prt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Standard.prt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">682</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9ba9910eb5b01650039299c465b9cc2c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">895493696000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="173">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="35" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="34" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="170" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="12" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="14" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/UD2.3.2000.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">UD2.3.2000.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7451</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">60830134884066c9a8d6fcaba8255be8</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">949596554000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="140">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="52" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="130" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="21" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/Template/Web/wblank.wpt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">wblank.wpt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6569</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">fc69badf7db5df5d867915112f1725d6</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">893138612000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="137">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="13" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="31" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="134" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="12" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:45 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000091_Amy/objects/Template/wp7us.wpt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">wp7us.wpt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">47187</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9fd8259065c85a24b9d1f58224a1d0fd</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">932457762000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="152">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="58" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="49" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="148" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="24" />
+  </statistics>
+</fits>
+
+</combined-fits>

@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.5</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/19</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">152093</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Adobe PDF Library 6.0/Adobe InDesign CS (3.0.1)</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:06 16:06:06-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-06T21:06:06Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:01 17:16:09Z</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/24th Biennial Program.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">24th Biennial Program.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bdf53269b0b5247c88c269bde7958c6e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102540580000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">24th Biennial Program.indd</title>
+      <author toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">Adobe InDesign CS (3.0.1)</author>
+      <pageCount toolname="Jhove" toolversion="1.16">12</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="CONFLICT">no</hasOutline>
+      <hasOutline toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>BrushScriptStd</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Futura-Book</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Futura-DemiBold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Futura-Heavy</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>JansonText-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>JansonText-BoldItalic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>JansonText-DemiBold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>JansonText-Italic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>JansonText-Roman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ZapfDingbatsITC</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="184">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="23" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="114" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="39" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="173" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="45" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="77" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+    <identity format="Microsoft Windows Autorun file." mimetype="application/x-setupscript." toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">45</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/AUTORUN.INF</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">AUTORUN.INF</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">42cd6a03b5edd29c02243c669b5932d9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="187">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="182" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="70" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="168" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="23" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="130" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.5</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/19</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">7964723</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 09:21:09-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:21:09Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 09:21:04-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Biennial - Trends in Georgia.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Biennial - Trends in Georgia.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5d2f07eba05acfcffbef33f647d93919</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102688478000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <author toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">PScript5.dll Version 5.2</author>
+      <pageCount toolname="Jhove" toolversion="1.16">49</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="CONFLICT">no</hasOutline>
+      <hasOutline toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">817</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-BoldItalic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-Italic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Tahoma</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Tahoma-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Wingdings-Regular</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1117">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="94" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="1107" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="216" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="571" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="49" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="168" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">30</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Demographic, Economic and Political Trends in Georgia.bat</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Demographic, Economic and Political Trends in Georgia.bat</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c16d5eb5a3f2f8562f769aa4c777e878</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="142">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="3" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="20" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="34" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="139" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="1" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="4" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">706987</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:09 12:38:10-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-09T17:38:10Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:09 12:38:10-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Demographic Trends in Georgia - Stephanie Bohon.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Demographic Trends in Georgia - Stephanie Bohon.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cf3e7400e15ad537df4cb487760c90fe</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102613894000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft PowerPoint - Demographic Trends in Georgia - Stephanie Bohon</title>
+      <author toolname="Jhove" toolversion="1.16">white</author>
+      <pageCount toolname="Jhove" toolversion="1.16">18</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">39</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Wingdings-Regular</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="249">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="34" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="138" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="58" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="234" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="76" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="30" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="84" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Powerpoint Presentation" mimetype="application/vnd.ms-powerpoint" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/126</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 14:08:59</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:08:59Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 14:08:59</created>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft PowerPoint</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Demographic Trends in Georgia - Stephanie Bohon.ppt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Demographic Trends in Georgia - Stephanie Bohon.ppt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1995264</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3fd52d22149d7f118b6dd7738d1a48a3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">18</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">3066</wordCount>
+      <title toolname="Exiftool" toolversion="10.00">Slide 1</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Stephanie Bohon</author>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">166</paragraphCount>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1662">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="50" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="1657" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="220" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="40" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="106" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">7084186</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 09:18:04-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:18:04Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 09:18:04-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Economic Trends in Georgia - John McKissick.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Economic Trends in Georgia - John McKissick.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cd3bfdd358e6603f500d42115c4d3465</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102688300000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft PowerPoint - Economic Trends in Georgia - John McKissick</title>
+      <author toolname="Jhove" toolversion="1.16">white</author>
+      <pageCount toolname="Jhove" toolversion="1.16">20</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">66</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-BoldItalic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow-Italic</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Tahoma</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Tahoma-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Wingdings-Regular</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="508">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="116" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="335" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="65" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="230" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="487" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="65" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="220" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Powerpoint Presentation" mimetype="application/vnd.ms-powerpoint" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/126</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 14:09:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:09:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 14:08:59</created>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft PowerPoint</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Economic Trends in Georgia - John McKissick.ppt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Economic Trends in Georgia - John McKissick.ppt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2954752</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3c3bec8d0ed99dadbadc24a115d9fa13</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">20</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">778</wordCount>
+      <title toolname="Exiftool" toolversion="10.00">SE2001NEW</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Susan R. Boatright</author>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">277</paragraphCount>
+      <hasHyperlinks toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">yes</hasHyperlinks>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="2592">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="76" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="2577" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="111" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="279" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="63" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="431" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (DLL) (console) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/gdiplus.dll</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">gdiplus.dll</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1773568</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c8aa430cc834ee5edbbffa12c29b84be</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1077985006000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="1570">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="1569" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="117" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="30" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="23" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.5</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/19</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">374088</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 5.0.5 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:03 15:23:50-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-03T20:23:50Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:03 15:23:50-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Handouts to accompany John McKissick's Presentation.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Handouts to accompany John McKissick's Presentation.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0fcfb7825cbf352eba8d40bd6237b8de</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102105432000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <author toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">PScript5.dll Version 5.2</author>
+      <pageCount toolname="Jhove" toolversion="1.16">8</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="CONFLICT">no</hasOutline>
+      <hasOutline toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial,Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialNarrow</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>BaskOldFace</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>PoorRichard-Regular</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1165">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="93" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="832" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="496" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="497" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="433" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="91" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="416" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1109" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (DLL) (console) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/intldate.dll</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">intldate.dll</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">64064</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ef66696af7cb1ff05226d005eb003a21</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1058245032000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="117">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="99" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="39" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="115" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/111</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">169</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/playlist.txt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">playlist.txt</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bb6f7c31084af46c7c32120babfefee4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="38">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="6" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="21" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="36" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="7" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">23828</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:09 12:38:49-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-09T17:38:49Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:09 12:38:49-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Political Trends in Georgia - Charles Bullock.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Political Trends in Georgia - Charles Bullock.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4b1eb555dc3b9bd088c558de6f044fa2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102613930000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft PowerPoint - Political Trends in Georgia - Charles Bullock</title>
+      <author toolname="Jhove" toolversion="1.16">white</author>
+      <pageCount toolname="Jhove" toolversion="1.16">9</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="196">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="27" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="65" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="187" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="38" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="27" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="27" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="59" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Powerpoint Presentation" mimetype="application/vnd.ms-powerpoint" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/126</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 14:31:48</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:31:48Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 14:08:59</created>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft PowerPoint</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Political Trends in Georgia - Charles Bullock.ppt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Political Trends in Georgia - Charles Bullock.ppt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">286720</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a3dcb091c38410f1cb53968e0ce5dabe</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102689110000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">9</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</wordCount>
+      <title toolname="Exiftool" toolversion="10.00">PowerPoint Presentation</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Charles Bullock</author>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</paragraphCount>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="347">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="6" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="341" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="28" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="269" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="184" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (GUI) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/pptview.exe</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">pptview.exe</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1782840</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d1ae45d7186fc463f345cf101ebb81e3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1063048842000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="1519">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="13" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="1517" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="35" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="159" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (DLL) (console) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/ppvwintl.dll</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ppvwintl.dll</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">159808</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">205ec2e0ffcbe04e2c1f2683de3da7d7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1058260454000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="180">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="148" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="33" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="177" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="3" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="4" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">4189</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/pvreadme.htm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">pvreadme.htm</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7eb1d9f580a4e5bbebc12319d3343c5e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1059157952000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = html, Attribute = dir, Line = 1, Column = 7</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = meta, Container = body, Line = 3, Column = 231</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = title, Container = body, Line = 3, Column = 279</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = style, Container = body, Line = 5, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = b, Attribute = class, Line = 29, Column = 7</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = b, Attribute = class, Line = 34, Column = 56</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = id, Line = 34, Column = 120</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 34, Column = 169</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = id, Line = 38, Column = 8</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 38, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = id, Line = 40, Column = 152</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 40, Column = 210</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 44, Column = 3</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = id, Line = 44, Column = 64</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 44, Column = 122</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = id, Line = 47, Column = 64</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = p, Line = 49, Column = 12</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">UTF-8</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="397">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="93" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="69" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="228" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="382" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">134703</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 14:21:33-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T18:21:33Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 14:21:33-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/rbrl436cd010_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436cd010_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b2abc32ad18e2a61837b6d2759366926</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531765294000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="170">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="70" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="40" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="163" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="28" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="48" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:09 17:44:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-09T17:44:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:09 17:24:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2004-12-09 12:24:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Office Word</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11.6360</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Readme.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Readme.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">26624</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4eaac4a91b1759520e7ce05d767dd707</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102614248000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">247</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1409</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">“Demographic, Economic and Political Trends in Georgia”</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Demographic, Economic and Political Trends in Georgia</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">white</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">3</paragraphCount>
+      <hasHyperlinks toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">yes</hasHyperlinks>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="340">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="27" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="227" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="231" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="330" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">10821</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 09:20:04-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:20:04Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 09:20:04-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Readme.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Readme.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ce8a691f520b304ae57f414c7efebd92</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102688404000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Readme.rtf</title>
+      <author toolname="Jhove" toolversion="1.16">white</author>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="243">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="24" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="71" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="52" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="231" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="35" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="20" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="46" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Rich Text Format (RTF)" mimetype="application/rtf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.8</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/53</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:09 12:44:00</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:09 12:44:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Readme.rtf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Readme.rtf</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9429</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1de1b94a6f2f33631f971cd73e5acaf9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102614256000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">247</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1409</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">“Demographic, Economic and Political Trends in Georgia”</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">white</author>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="159">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="36" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="58" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="152" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="26" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="80" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (DLL) (GUI) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/saext.dll</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">saext.dll</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">211512</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a56a6981ac9363490fe618f7556c3e51</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1058245078000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="202">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="7" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="200" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="29" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="130" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">156709</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/PScript5.dll Version 5.2</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 09:19:17-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:19:17Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 09:19:17-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Title slides.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Title slides.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">882c2c027db8c9cbaa4635dd6e26ad80</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102688360000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft PowerPoint - Title slides</title>
+      <author toolname="Jhove" toolversion="1.16">white</author>
+      <pageCount toolname="Jhove" toolversion="1.16">2</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">712</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1028">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="846" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="74" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="223" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="127" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="15" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="18" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1003" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Powerpoint Presentation" mimetype="application/vnd.ms-powerpoint" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/126</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:10 14:08:59</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-10T14:08:59Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:10 14:08:59</created>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft PowerPoint</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/Title slides.ppt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Title slides.ppt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">79872</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18430e84e13ddfb7090ca00e037adbac</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1102687740000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">81</wordCount>
+      <title toolname="Exiftool" toolversion="10.00">PowerPoint Presentation</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Charles Bullock</author>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</paragraphCount>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="250">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="6" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="83" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="32" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="234" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="245" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="CONFLICT">
+    <identity format="PE32 executable (DLL) (console) Intel 80386, for MS Windows" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="DOS/Windows executable" mimetype="application/x-dosexec" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000004_24th Biennial Institute for Georgia Legislators Presentation Files/objects/unicows.dll</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">unicows.dll</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">246424</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">006401678cfbccbcb97e405e2f83d2fa</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1035994880000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="222">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="11" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="221" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="33" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="192" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+</combined-fits>

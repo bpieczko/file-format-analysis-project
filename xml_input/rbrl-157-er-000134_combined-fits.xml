@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification status="CONFLICT">
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Albany/albany.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">albany.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">15250</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">952096511bffc5be2c0deedc084093c2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1015388318000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="121">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="40" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="115" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Athens/athens2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">athens2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5470</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">76446707af5c98b978ca830206a2c2f9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1020140802000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="438">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="91" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="414" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="420" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="372" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="90" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="366" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="142" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification status="CONFLICT">
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+    <identity format="M2TS" mimetype="video/m2ts" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Athens/athenschamber2.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">athenschamber2.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">11849</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">78484d06d2398f8dda30d6e6def7f98b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996762702000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="181">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="100" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="165" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="38" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="24" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="25" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Athens/athenschamber3.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">athenschamber3.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">13156</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8ea5a533a2e5c87428c0dc6b992c896d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996762734000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="160">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="73" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="154" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="21" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="12" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="15" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification status="CONFLICT">
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+    <identity format="M2TS" mimetype="video/m2ts" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Athens/athenschamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">athenschamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">11849</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5bbdcb43fa9b49816ffed981a798b879</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">989917182000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="144">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="10" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="128" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="16" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="7" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="10" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Atlanta Office Inventory graphic.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Atlanta Office Inventory graphic.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">526837</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6ac850ac5f28854c3fdde66560c8e6d3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1028190886000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="130">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="47" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="61" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="127" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="8" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="61" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="23" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Augusta-CSRA/aug2002speech.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">aug2002speech.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7408</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6cb20afc1f8bd61d4a370cf47baa6455</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1020238692000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="130">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="14" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="43" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="125" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="18" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="14" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="15" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Augusta-CSRA/augusta2002wpd.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">augusta2002wpd.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2801</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">57bba3eda01e068eb3ee9178f8405316</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1020258418000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="112">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="32" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="110" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="15" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="11" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="13" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Augusta-CSRA/augustachamber2.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">augustachamber2.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12601</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">66c8e053d9bc2f41d1dc145a430d0536</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996762838000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="112">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="27" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="45" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="110" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="30" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="24" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="27" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="28" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Augusta-CSRA/augustachamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">augustachamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12601</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c69818023f188177097567da8b2cc337</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">989416322000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="125">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="17" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="123" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="15" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="16" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Rome/Briefing 2001.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Briefing 2001.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">13004</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2d3a43b3b802dae8b33ab4d120402f65</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">988698774000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="159">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="63" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="150" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="26" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="21" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Rome/briefing2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">briefing2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10318</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1720adc34dbf587aec86b0405bfad883</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1020152170000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="131">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="10" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="125" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="10" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="14" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="12" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Rome/Briefing.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Briefing.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">17978</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d19f20581ec1cedb47570147b460cf82</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">993625312000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="167">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="29" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="60" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="159" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="26" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="31" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Fitzgerald/CAIP grant support.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">CAIP grant support.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7101</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a4e6ab92cbf10c737bc4481e9f594a61</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">958535132000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="116">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="114" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification status="CONFLICT">
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+    <identity format="M2TS" mimetype="video/m2ts" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/CamdenCo/camden2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">camden2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7278</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1fb7ec271bc9ee1dbc1fc2a2b419ca1a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1016111314000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="116">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="112" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Catoosa Co/catoosa2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">catoosa2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4534</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30f889f6fa3923923a24f29974fe2264</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1021958634000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="143">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="43" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="138" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="21" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Cobb Chamber/cobb2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cobb2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5959</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6ccf0fa24b54aad535046b90739d3a70</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1015932898000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="123">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="25" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="121" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="7" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="3" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Cobb Chamber/Cobb Chamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Cobb Chamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12448</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4aa25e0e525ec4a343200946d77b036d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">968902438000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="131">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="36" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="128" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="21" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Conyers-Rockdale/conyers.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">conyers.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8973</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">22b5a92ef543f136be6de126a951d289</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1008770192000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="110">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="24" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="108" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="6" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="3" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="4" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Dalton/daltonchamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">daltonchamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">14466</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">584d5ec0eaf1d936e4dd5236ef8f61cd</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">997958344000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="113">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="110" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Forsyth County/forsyth2.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">forsyth2.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5153</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">504149bd7825f78d00158803c015783d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">990532602000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="111">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="10" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="30" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="108" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="12" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="10" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Forsyth County/forsythchamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">forsythchamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8810</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">08e902c99aeaf8fafeab22f053bf7015</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">990539360000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="118">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="114" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Macon-Bibb/~ME00007.WPD</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">~ME00007.WPD</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">11109</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b534799afb7b651d0fa71df7a3408ca2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1008770086000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="117">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="114" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Augusta-CSRA/MfM 17 Oct 2000.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">MfM 17 Oct 2000.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">11701</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8959fb547486bf2082cef3f8036d64d4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">971859566000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="128">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="49" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="125" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Moultire/moultrie2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">moultrie2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12544</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b5c0c53648608ca3904b52d926a5df01</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1018504988000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="119">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="116" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/N-GA/northgaissues.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">northgaissues.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6676</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1c44880fc52962d04b992be970f7f7b5</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1022234074000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="111">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="39" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="108" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Paulding Co/paulding2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">paulding2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3714</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e4e2f614cde0c9b4af912d1275abe109</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1021906708000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="123">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="15" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="120" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="16" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Paulding Co/pauldingchamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">pauldingchamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10139</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">40f15f032fc7a8152ec6f963e6270631</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">997958412000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="112">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="38" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="110" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Polk/polk2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">polk2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7635</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">904f2d3d8cde24ab3a5b57b3eaa9dd0b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1020144632000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="111">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="40" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="108" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Rome/Responsetochamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Responsetochamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7615</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">dff8aa7ba34716cd5d2f3ecbf61d2105</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">958551716000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="147">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="10" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="142" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="15" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="10" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Conyers-Rockdale/rockdalechamber.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rockdalechamber.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7145</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">dbe3bd5a3ea6a95b7b20858da15c8b91</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">990617206000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="114">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="28" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="108" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="22" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="23" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="25" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Savannah/savannah2001.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">savannah2001.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18067</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a8e282681b58224b98b9db52b5102db2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">993704376000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="126">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="122" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="14" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Savannah/savannah2002.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">savannah2002.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">21234</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">54283f5ad1cef03e432c615668b3ffc0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1023886038000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="172">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="17" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="37" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="167" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="14" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="9" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="18" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Savannah/Savannah Chamber, 28 Sept 2000.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Savannah Chamber, 28 Sept 2000.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18732</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2b390bc09035d98e68659eafdacdad87</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1008770134000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="116">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="46" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="113" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="14" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="19" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Savannah/savannahspeech2001.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">savannahspeech2001.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10273</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">181b4eec277a83c0309055c35c6479d4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">995456668000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="134">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="21" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="118" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="26" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="23" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/SE-Georgia/segeorgiaissues.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">segeorgiaissues.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5820</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ac3c4f66ce615f8b273e2f6e2bb38a3b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1022234006000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="117">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="53" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="113" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/Cobb Chamber/SPEECH</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">SPEECH</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18402</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b7102bbb6a93454537cf48b19dae094e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1015852536000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="159">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="39" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="104" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="58" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="156" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="37" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="30" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="39" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/3rd district/thirdistrict.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">thirdistrict.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6777</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1e7731dcf9345e6ce00b5de13946950e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996762456000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="116">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="52" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="113" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/UGA Request List.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">UGA Request List.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4623</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">20d6f1ab4e9ba5cbea6f0a1e04216366</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1039601578000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="125">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="24" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="123" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="8" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="5" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/valdosta/valdosta2001a.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">valdosta2001a.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10561</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f2f1ef1126b45bdb62824d6fcd08eac7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996761578000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="184">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="69" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="105" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="118" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="16" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="13" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/valdosta/valdosta2001.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">valdosta2001.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10561</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7e2965c06a5407956123005bf6591fed</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996761432000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="131">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="11" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="127" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:11 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">WordPerfect</creatingApplicationName>
+    <creatingApplicationVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7.1</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000134_Georgia/objects/valdosta/valdosta.wpd</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">valdosta.wpd</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">14424</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9e2eee2bef022192c15d20a25de91998</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">959676684000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="134">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="22" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="127" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="28" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="24" />
+  </statistics>
+</fits>
+
+</combined-fits>

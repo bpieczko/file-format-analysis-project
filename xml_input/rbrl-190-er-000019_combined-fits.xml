@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:38 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/BLUES FOUNDATION AWARDS 1999.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BLUES FOUNDATION AWARDS 1999.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5533425664</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ed0c5c3ac54b761aa4f9116c9bdaf1ad</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415887735000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="23870">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="39" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="93" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23863" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:39 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/COVERDELL TRIBUTE.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">COVERDELL TRIBUTE.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2262734848</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">583cbf5a16903802c4d84459ea8ad656</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415852647000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="9790">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="39" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9783" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:39 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/LAWRENCE ENGRAM SSA260-84-9938.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">LAWRENCE ENGRAM SSA260-84-9938.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5792841728</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d033294d3df80ed024d57d9822b27337</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415855957000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="24954">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="28" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="32" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="24950" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:38 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/NEWS- HAWAII PARADE-PEARL HARBOR.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">NEWS- HAWAII PARADE-PEARL HARBOR.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2303834112</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0134ebdaf80834d2135abbd014df7019</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415890785000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="10466">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="45" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="78" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="10459" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="31" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:38 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG-2 Program Stream" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/386</externalIdentifier>
+    </identity>
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/QUESTIONING OF STARR BY SCHIPPERS.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">QUESTIONING OF STARR BY SCHIPPERS.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3137281876</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c0e992e252d394319cdfc5e43b14261c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415879961000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="13984">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9714" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="375" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13970" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="335" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:38 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/TAPE OF VALLEY PINES APT B3-INSPECTION.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">TAPE OF VALLEY PINES APT B3-INSPECTION.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1395568640</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1c9cf2c9d261794c02d3baed10ca009b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415882366000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="6022">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="114" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="6016" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/10/19 4:39 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-190-er-000019_Hard Drive with Press Tapes HD003 20193566-VHS/objects/TV NEWS- WSB CHANNEL 2.mpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">TV NEWS- WSB CHANNEL 2.mpg</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3770359808</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">822346b8346eff5c746f7f13b3205027</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415884768000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="16705">
+    <tool toolname="MediaInfo" toolversion="18.12" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="22" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16698" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+</combined-fits>

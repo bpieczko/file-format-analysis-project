@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:43 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">3.2</version>
+      <version toolname="Jhove" toolversion="1.16" status="CONFLICT">HTML 3.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/98</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">5816</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000084_Constituents/objects/constituents.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">constituents.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0753f69eaf7723d0d04abd0636a9d720</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">963460636000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 8, Column = 71</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 8, Column = 83</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 8, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 8, Column = 110</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = nof, Line = 12, Column = 71</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = font, Container = ul, Line = 24, Column = 34</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = p, Container = font, Line = 24, Column = 56</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = font, Line = 24, Column = 60</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = ul, Line = 25, Column = 31</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = id, Line = 35, Column = 36</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 37, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 40, Column = 98</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 43, Column = 102</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 46, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 49, Column = 110</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = b, Container = ul, Line = 61, Column = 34</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = p, Container = font, Line = 61, Column = 69</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = p, Container = b, Line = 61, Column = 69</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = font, Line = 61, Column = 73</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = b, Line = 61, Column = 80</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = ul, Line = 62, Column = 31</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = nof, Line = 69, Column = 71</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = img, Attribute = id, Line = 76, Column = 44</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = nof, Line = 79, Column = 61</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">ISO-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+      <markupBasisVersion toolname="Jhove" toolversion="1.16" status="CONFLICT">HTML 3.2</markupBasisVersion>
+      <markupBasisVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.2</markupBasisVersion>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="766">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="105" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="489" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="472" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="446" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="377" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="101" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="375" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="720" />
+  </statistics>
+</fits>
+
+</combined-fits>

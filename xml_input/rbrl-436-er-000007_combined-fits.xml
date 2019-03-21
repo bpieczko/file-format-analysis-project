@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">134103</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 10:14:10-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T14:14:10Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 10:14:10-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000007_Draft Environmental Impact Statement for Proposed Modernization and Expansion of Townsend Bombing Range/objects/rbrl436cd003_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436cd003_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4d20a1a72ac72c85a903e5b884958175</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531750452000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="229">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="11" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="164" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="76" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="213" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="6" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="57" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.7</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/276</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">118878164</size>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA">Adobe Acrobat 10.1.2/Adobe Acrobat 10.1.2</creatingApplicationName>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2012-06-29T21:29:31Z</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000007_Draft Environmental Impact Statement for Proposed Modernization and Expansion of Townsend Bombing Range/objects/Vol II Appendices for TBR DEIS July2012.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Vol II Appendices for TBR DEIS July2012.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cfc81f0d4a3e8d1731da19b9810f2f93</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1341005416000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">edwardsgm</author>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">1256</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="CONFLICT">no</hasOutline>
+      <hasOutline toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="7293">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="2045" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="167" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="122" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="255" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="7263" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="885" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="946" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.7</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/276</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">37448268</size>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA">Acrobat Distiller 10.1.2 (Windows)/PScript5.dll Version 5.2.2</creatingApplicationName>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2012-06-28T15:20:47Z</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000007_Draft Environmental Impact Statement for Proposed Modernization and Expansion of Townsend Bombing Range/objects/Vol I TBR DEIS July2012.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Vol I TBR DEIS July2012.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">eac4588f2acfe234149934b193d3491e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1340896850000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA">Microsoft Word - TBR_DEIS_10MAY2012.docx</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">edwardsgm</author>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">468</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="CONFLICT">no</hasOutline>
+      <hasOutline toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="3007">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="985" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="645" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="637" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="642" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="2909" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="415" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="458" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1591" />
+  </statistics>
+</fits>
+
+</combined-fits>

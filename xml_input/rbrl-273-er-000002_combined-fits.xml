@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:29 AM">
+  <identification>
+    <identity format="JPEG File Interchange Format" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <version toolname="Droid" toolversion="6.3">1.01</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/43</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">390672</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000002_Congressional Maps/objects/Linder-Map-GAs_7th_Congressional_District1.jpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Linder-Map-GAs_7th_Congressional_District1.jpg</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">027f95facae2947da9274c1302462fed</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298556071000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <imageWidth toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1005</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">600</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 1</YCbCrSubSampling>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">144</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">144</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8 8 8</bitsPerSample>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="231">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="32" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="102" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="99" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="195" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="failed" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="33" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="48" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:29 AM">
+  <identification>
+    <identity format="JPEG File Interchange Format" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <version toolname="Droid" toolversion="6.3">1.01</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/43</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">347945</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000002_Congressional Maps/objects/Linder-Map-GAs_7th_Congressional_District2.jpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Linder-Map-GAs_7th_Congressional_District2.jpg</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e6d259d475ce846f704d09bf92829a85</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298554088000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <imageWidth toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1005</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">600</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 1</YCbCrSubSampling>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">74</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">74</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8 8 8</bitsPerSample>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="1028">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="375" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="921" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="838" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="943" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="failed" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="153" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="814" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="504" />
+  </statistics>
+</fits>
+
+</combined-fits>

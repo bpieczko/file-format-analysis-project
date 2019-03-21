@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.6</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/20</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1958089</size>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Adobe Acrobat 18.11 Image Conversion Plug-in/Adobe Acrobat 18.11</creatingApplicationName>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2018-07-16T19:55:09Z</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_booklet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002_booklet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">71e069e27f404b283fedbc30db8db8a5</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531770912000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">4</pageCount>
+      <isTagged toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="161">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="27" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="36" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="31" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="137" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="25" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="52" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Comma-Separated Values (CSV)" mimetype="text/csv" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_diskimage/rbrl436dvd002.cue.csv</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.cue.csv</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8490</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">368ca9a5d88618abf903b59e9f8752fa</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769888000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="136">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" status="did not run" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="133" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="46" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">348</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_diskimage/rbrl436dvd002.cue</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.cue</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8ae930c0cf743b2df025dd550790dade</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769886000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">US-ASCII</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="135">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="32" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="130" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="8" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/111</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1087</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_diskimage/rbrl436dvd002.cue.txt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.cue.txt</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12c9f0bd320e6422bf8e17b3b0771359</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769888000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">UTF-8 Byte Order Mark signature is present offset=0</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">UTF-8</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="65">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="45" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="59" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG sequence, v2, program multiplex" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="MPEG" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+    <identity format="MPEG video" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+    <identity format="MPEG Movie Clip" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_diskimage/rbrl436dvd002.iso01</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.iso01</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">243662848</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b4d96fdfa9befd24c6d1d4d6dc6f59c2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769886000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="5018">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="50" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="5009" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="83" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="192" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="1187" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="37" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="39" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification status="CONFLICT">
+    <identity format="# UDF filesystem data (version 1.5) 'STOPCOMMONCORE'" mimetype="application/x-iso9660-image" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="ISO 9660 CD-ROM filesystem data" mimetype="application/x-iso9660-image" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_diskimage/rbrl436dvd002.iso</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.iso</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073741824</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">454786a8e41c89af71da13f34fdc678c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769886000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="5036">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="5032" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="140" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4914" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="6" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification status="CONFLICT">
+    <identity format="MPEG-4 Media File" mimetype="application/mp4, video/mp4" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/199</externalIdentifier>
+    </identity>
+    <identity format="MPEG-4" mimetype="video/mp4" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002.mp4</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002.mp4</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">143479315</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a74d1168c8fd1d07ce092aaf31578e6f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531771776000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="1201">
+    <tool toolname="MediaInfo" toolversion="18.03" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="844" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="1111" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="843" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="1090" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:50 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">135729</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 15:29:20-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T19:29:20Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 15:29:20-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000013_Stop the Common Core Power Grab DVD/objects/rbrl436dvd002_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436dvd002_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e1f68d503c9c7152fa3e17a1a9d03a56</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531769362000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1196">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="13" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="286" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="70" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="363" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="352" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1168" />
+  </statistics>
+</fits>
+
+</combined-fits>

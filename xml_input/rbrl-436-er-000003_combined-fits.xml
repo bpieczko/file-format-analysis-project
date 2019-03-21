@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="Microsoft Powerpoint Presentation" mimetype="application/vnd.ms-powerpoint" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/126</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:09:21 15:32:49</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-09-21T15:32:49Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:09:15 13:27:13</created>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft PowerPoint</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000003_159th Georgia State District Presentation/objects/159th Presentation.ppt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">159th Presentation.ppt</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">100572160</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d2dd9c97025895f4eae5dba595c1ab55</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1095780770000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">43</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">119</wordCount>
+      <title toolname="Exiftool" toolversion="10.00">Slide 1</title>
+      <author toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Andrea Johnson</author>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">49</paragraphCount>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="4869">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="858" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4851" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="123" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="444" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="580" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" status="did not run" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="982" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">134387</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 11:24:11-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T15:24:11Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 11:24:11-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000003_159th Georgia State District Presentation/objects/rbrl436cd007_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436cd007_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1a37728205d6ecc325b1e7c3e3b78d85</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531754652000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1084">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="75" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="519" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="472" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="471" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="418" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="65" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="405" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1049" />
+  </statistics>
+</fits>
+
+</combined-fits>

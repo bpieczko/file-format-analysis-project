@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:08 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Lotus 1-2-3" mimetype="application/x-123" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000118_AWeeklyEcoDigest/objects/A weekly economic digest.wb2</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">A weekly economic digest.wb2</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">212077</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c0e99de95503400dfc22c15b43e4fe4e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1003221016000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="348">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="119" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="345" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="178" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="186" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="122" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="34" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="97" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:08 PM">
+  <identification>
+    <identity format="Microsoft Excel" mimetype="application/vnd.ms-excel" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">8</version>
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">8X</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/61</externalIdentifier>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/62</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:10:10 16:28:12</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-10-10T16:28:12Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2001:10:10 16:28:09</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000118_AWeeklyEcoDigest/objects/A weekly economic digest.xls</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">A weekly economic digest.xls</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">93184</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">25db1861b7766a70c95e09cf6cd5196f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1002698892000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="522">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="152" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="456" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="460" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="469" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="150" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="400" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="491" />
+  </statistics>
+</fits>
+
+</combined-fits>

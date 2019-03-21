@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:44 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Microsoft Access Database" mimetype="application/x-msaccess" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000041_CJS Appropriations/objects/CJS Access Sheet</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">CJS Access Sheet</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">421888</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4b522ccf97037e5934a860740a155d95</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1017078352000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="564">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="171" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="555" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="415" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="410" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="168" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="372" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="375" />
+  </statistics>
+</fits>
+
+</combined-fits>

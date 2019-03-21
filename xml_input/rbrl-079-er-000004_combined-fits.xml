@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="TIFF EXIF" mimetype="image/tiff" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+    <identity format="TIFF TIFF/IT-BP (ISO 12639:1998)" mimetype="image/tiff" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <version toolname="Jhove" toolversion="1.16">4.0</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">232818</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000004_Elderly Longterm Care Chart/objects/LONGTERM.TIF</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">LONGTERM.TIF</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2acd76d697c1c7707388801f9939fe97</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">660497680000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <imageWidth toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1344</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1385</imageHeight>
+      <colorSpace toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">WhiteIsZero</colorSpace>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">300</ySamplingFrequency>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="590">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="122" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="538" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="423" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="519" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="113" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="366" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="156" />
+  </statistics>
+</fits>
+
+</combined-fits>

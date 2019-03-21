@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/AIRSHOW.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">AIRSHOW.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3584</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2b857b561e36412d8912a14f0c05703c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">576514932000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="143">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="27" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="53" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="141" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="37" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="26" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="26" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="M2TS" mimetype="video/m2ts" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/BDBKGRD.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">BDBKGRD.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6656</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d36af024cdbaa0d2b42ddeeb52121663</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">610733814000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <video />
+  </metadata>
+  <statistics fitsExecutionTime="554">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="69" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="476" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="508" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="393" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="67" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="401" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="125" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/COLLG.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">COLLG.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4096</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">515bf3a8e81e129f00291ffc2f116aa7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">579277880000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="152">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="14" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="46" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="150" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="27" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="12" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/DISTRICT.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DISTRICT.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2560</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3c0690b5b1b57a284ea8b4d41b16ce61</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">577463948000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="166">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="24" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="73" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="164" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="39" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="24" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="24" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/DOBB.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DOBB.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2560</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c3eeab23eb2ccf879d07f92e38078080</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">552784114000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="133">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="30" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="131" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="13" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="3" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="5" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="M2T" mimetype="video/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/GAISS.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">GAISS.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3584</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d6f926be235bbe9dd3a2e4edf6e143a9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">610733926000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <video />
+  </metadata>
+  <statistics fitsExecutionTime="195">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="26" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="74" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="170" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="36" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="22" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="26" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="25" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/NEWCOMER.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">NEWCOMER.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5120</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3f477d5a87bb180d615a3c4684fc9e2e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">577483064000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="142">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="15" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="140" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="27" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="11" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="13" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/OV1.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">OV1.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4608</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f4f1095366edcadeb23b5a0a84252b1c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">552780670000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="164">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="13" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="162" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="10" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="13" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/PARTY.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">PARTY.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3072</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c713b0e76d29b89264a241b3b42efe0a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">576865110000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="136">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="134" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="21" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="9" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/POL-ISS.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">POL-ISS.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6144</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9b3c93f5d247f8cdd2016b806dfb98f0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">580573854000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="180">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="45" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="176" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="26" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/STUDENT.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">STUDENT.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5120</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5dffdce127621a4edbe1cb9d1029ce89</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">610733866000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="157">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="35" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="93" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="154" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="48" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="29" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="35" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="32" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/TEACHER.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">TEACHER.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2048</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2656148c7cd5ce2a1d993462d4a3f7b7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">576883210000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="171">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="169" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="17" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="4" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="8" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/WINNING.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">WINNING.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3584</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a995686f2d6c1780153332adf3dfbcad</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">579894188000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="138">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="84" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="136" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="59" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="11" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 4:32 PM">
+  <identification status="CONFLICT">
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/42</externalIdentifier>
+    </identity>
+    <identity format="Wordperfect Secondary File" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">5.1/5.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/43</externalIdentifier>
+    </identity>
+    <identity format="Stationery for Mac OS X" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/131</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word for MS-DOS Document" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">3.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/273</externalIdentifier>
+    </identity>
+    <identity format="Interleaf Document" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/329</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Word Document (Password Protected)" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/754</externalIdentifier>
+    </identity>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">6 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/892</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-079-er-000002_Brent's Letters/objects/WRIGHT.DOC</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">WRIGHT.DOC</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3584</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1edac6d689c766a0072ba7fc3b8bf17e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">569793506000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="137">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="81" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="131" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="133" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="90" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="77" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="82" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="80" />
+  </statistics>
+</fits>
+
+</combined-fits>

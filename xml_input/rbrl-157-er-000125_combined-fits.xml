@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:09 PM">
+  <identification status="PARTIAL">
+    <identity format="Microsoft Outlook email folder (&lt;=2002)" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000125_ClelandGA PAB/objects/mailbox.pab</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">mailbox.pab</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">32768</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">957e3684f1bb1e7f92e9cc142f103bf5</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">980224742000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="469">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="70" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="433" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="462" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="436" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="69" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="409" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="128" />
+  </statistics>
+</fits>
+
+</combined-fits>

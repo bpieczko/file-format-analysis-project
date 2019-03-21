@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">4328</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/012604flatimesunion.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">012604flatimesunion.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">aa4dc846d74e86094c7abeb3f984a5df</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1066897148000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 66, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 72, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="200">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="96" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="117" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="174" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="92" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="23" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="30" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">11146</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/013101baxleynewsbanner.htm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">013101baxleynewsbanner.htm</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e981356bde75df49586ff2d2a6498f9a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 47, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 65, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 70, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 117, Column = 17</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 119, Column = 16</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 129, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 167, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 56</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 83</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 168, Column = 57</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 170, Column = 40</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 232, Column = 39</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 232, Column = 58</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 275, Column = 16</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="699">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="81" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="504" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="455" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="439" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="79" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="377" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="662" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">4783</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/021404augchronicle.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">021404augchronicle.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">adde307aead7d3264c7c65dc11c68236</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1068638424000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 72, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 78, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="133">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="35" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="66" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="127" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="12" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="21" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3257</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/021604mactel.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">021604mactel.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7f5bee2bd40b0583cc0235361792e7a0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1069317754000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 47, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 53, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="205">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="54" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="75" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="86" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="199" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="12" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="10" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">5870</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/022504mdj.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">022504mdj.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3b7039618339420ff1afbc4e3083aab6</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1069317514000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 94, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 100, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="190">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="78" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="75" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="176" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="31" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="23" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="29" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">5630</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/030804albher.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">030804albher.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">76d333bbf96493f64ef77eef0e2c7883</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1070273928000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 84, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 90, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="179">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="11" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="46" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="65" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="166" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="8" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="17" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">5353</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/031603clayton.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">031603clayton.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">898fe2f80b4aa34c4080849086f558ff</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1061485604000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 84, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 90, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="138">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="23" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="55" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="74" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="128" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="32" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="28" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">11430</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/051701albanyherald.htm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">051701albanyherald.htm</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">84528c8dc84288f9822fe3dcd87be5fc</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 47, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 65, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 70, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 117, Column = 17</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 119, Column = 16</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 129, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 167, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 56</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 83</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 239, Column = 42</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 240, Column = 39</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 240, Column = 58</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 280, Column = 16</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="173">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="15" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="67" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="82" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="155" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="33" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">12384</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/062102StPetersburgPresDrug.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">062102StPetersburgPresDrug.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">875ac1236efc82720a64f38b5691e835</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 40, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 45, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 50, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 90, Column = 20</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 91, Column = 19</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 94, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 117, Column = 28</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 117, Column = 58</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 118, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 118, Column = 46</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 191, Column = 44</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 212, Column = 19</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="192">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="15" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="60" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="81" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="178" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="33" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="9" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="33" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">11275</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/062202NYTPresDrugs.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">062202NYTPresDrugs.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0309d7dfbe373d6974593e610d1902f3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 47, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 65, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 70, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 117, Column = 17</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 119, Column = 16</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 129, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 167, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 56</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 168, Column = 24</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 170, Column = 42</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 172, Column = 24</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 173, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 181, Column = 24</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 229, Column = 41</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 229, Column = 82</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 270, Column = 16</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="178">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="45" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="82" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="169" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="35" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">11589</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/062202OrlandoSentinelPresDrug.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">062202OrlandoSentinelPresDrug.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c0dfb5676184ac0c8abb7e7bbc8d67c1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 40, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 45, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 50, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 90, Column = 20</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 91, Column = 19</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 94, Column = 21</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 117, Column = 28</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 117, Column = 58</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 118, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 118, Column = 46</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 186, Column = 44</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 207, Column = 19</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="148">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="10" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="41" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="87" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="132" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="14" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="6" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="24" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">4980</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/111803mississippian.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">111803mississippian.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f29df4c358f6049834a61a56d3cd4200</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1401830596000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bgcolor, Line = 10, Column = 78</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = table, Attribute = bordercolor, Line = 10, Column = 96</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 13, Column = 35</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 15, Column = 49</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 74, Column = 27</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = font, Attribute = face, Line = 80, Column = 21</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16">iso-8859-1</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="156">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="41" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="53" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="147" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="21" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 8:23 PM">
+  <identification>
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/96</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">6401</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000173_editorials/objects/template-editorials.htm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">template-editorials.htm</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6471f15f22e3c649ed51067f9748fbf1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1027054800000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unrecognized or missing DOCTYPE declaration; validation continuing as HTML 3.2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = noedit, Line = 9, Column = 2</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginheight, Line = 23, Column = 72</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = marginwidth, Line = 23, Column = 89</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = topmargin, Line = 23, Column = 105</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = body, Attribute = leftmargin, Line = 23, Column = 119</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 47, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 65, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = a, Attribute = target, Line = 70, Column = 91</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 117, Column = 17</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 119, Column = 16</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 129, Column = 18</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Tag illegal in context Name = div, Container = font, Line = 167, Column = 22</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Improper value for attribute Element = div, Attribute = align, Value = justify, Line = 167, Column = 26</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 167, Column = 41</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 168, Column = 42</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 169, Column = 24</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Unknown tag Name = justify, Line = 169, Column = 43</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Close tag without matching open tag Name = font, Line = 170, Column = 23</message>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Undefined attribute for element Name = td, Attribute = bgcolor, Line = 209, Column = 16</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <markupBasis toolname="Jhove" toolversion="1.16">HTML</markupBasis>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="173">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="44" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="71" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="165" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="20" />
+  </statistics>
+</fits>
+
+</combined-fits>

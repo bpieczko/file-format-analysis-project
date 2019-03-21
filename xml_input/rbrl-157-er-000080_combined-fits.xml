@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 6:43 PM">
+  <identification status="CONFLICT">
+    <identity format="Hypertext Markup Language" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <version toolname="Droid" toolversion="6.3">4.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/99</externalIdentifier>
+    </identity>
+    <identity format="HTML Transitional" mimetype="text/html" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <version toolname="Jhove" toolversion="1.16">HTML 4.0</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">12122</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-157-er-000080_Schedule/objects/schedule2.html</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">schedule2.html</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ca98291e93b9da8ebce5553c7ab88741</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">986453376000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <text>
+      <charset toolname="Exiftool" toolversion="10.00">ISO-8859-1</charset>
+      <markupBasis toolname="Exiftool" toolversion="10.00">HTML</markupBasis>
+      <markupBasisVersion toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">4.0</markupBasisVersion>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="760">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="91" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="604" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="516" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="475" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="450" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="89" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="447" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="731" />
+  </statistics>
+</fits>
+
+</combined-fits>

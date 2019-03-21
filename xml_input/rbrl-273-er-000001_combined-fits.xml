@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X101.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X101.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30933496</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1358e4011e685da769eb32c9e4e2b7e3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:4:26:662</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3866662</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4731">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="29" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4724" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="165" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="32" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="224" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="29" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="147" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X102.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X102.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6956432</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c6f9da8b3ce43c7e9ac9cbbc9e568cc6</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:14:29:529</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">869529</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4512">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4506" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="56" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="159" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="28" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="69" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="57" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X103.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X103.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">15644131</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">993115c94d048041f382828765447182</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:32:35:491</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1955491</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4534">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="42" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4529" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="25" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="136" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="45" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="94" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="69" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X104.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X104.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29331668</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b263261031d8b8d9aefcf69ff5dab10c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:1:6:434</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3666434</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4638">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="40" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4630" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="60" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="143" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="42" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="198" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="37" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="128" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X105.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X105.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">53923759</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">719847c1248a2e5644513d3c3a15caec</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:52:20:445</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">6740445</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4657">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="31" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4651" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="37" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="161" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="36" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="258" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="130" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X106.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X106.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9620921</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">45f1af5900f7cfd6be33de33dd6fc7aa</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291817573000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:20:2:590</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1202590</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4636">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="59" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4626" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="74" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="148" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="68" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="134" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="30" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="119" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X107.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X107.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">57178407</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b22a5a8867f20c3b9d4180d4b5e56856</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:59:7:276</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">7147276</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4714">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="6" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4710" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="25" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="142" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="6" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="283" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="167" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X108.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X108.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2501196</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6c893d4066e5197e3bb51428f1d6ce9f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291813122000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:5:12:625</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">312625</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="2218">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="58" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="2213" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="121" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="61" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="81" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="28" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="81" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X109.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X109.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">12783410</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c418f3c581382f4e5824a8820d3485a7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291834929000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:26:37:901</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1597901</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4546">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4539" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="124" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="138" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="18" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="104" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X110.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X110.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">15279253</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e34d32d593138bcecde4d41e2c5dbded</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291840276000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:31:49:882</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1909882</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4482">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="9" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4479" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="22" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="135" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="13" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="117" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="95" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X111.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X111.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18255122</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cbcaa2dbb2488fc21426cd5bd421dc06</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291843011000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:38:1:865</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">2281865</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4588">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="8" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4585" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="28" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="121" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="8" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="117" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="77" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X112.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X112.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">10265206</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f1929f7855f39a9166af342e6321a718</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291901332000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:21:23:126</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1283126</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4562">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4552" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="198" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="91" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="79" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X122.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X122.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28208193</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cd21aca1bb91b58f99e971d10ea0c1f0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292011735000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:58:45:999</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3525999</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4596">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="32" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4590" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="25" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="128" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="35" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="189" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="122" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X131.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X131.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29234910</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">954d2fc36d920d325ebeb13f91bf296b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292254868000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:0:54:339</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3654339</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4593">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="6" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4589" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="24" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="154" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="6" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="150" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="95" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-X132.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-X132.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">47730022</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7e9744b1b7280151f47ad09da16764ef</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292267389000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:39:26:228</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">5966228</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4617">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="46" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4612" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="23" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="124" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="48" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="283" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="176" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y101.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y101.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6053640</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e9af0119927525dd4460cc22d77f204f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291302783000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:12:36:680</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">756680</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4604">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="44" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4599" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="66" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="130" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="46" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="103" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="26" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="89" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y108.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y108.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">25641715</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8e53f851d03ff91a3aa097055d60eed2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:53:25:190</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3205190</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4724">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="49" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4717" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="65" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="129" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="52" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="191" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="31" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="150" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y114.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y114.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">43590554</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">670505c63aa56be346e37e8013f608c0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298354299000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:30:48:795</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">5448795</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4549">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="33" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4540" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="62" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="171" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="35" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="240" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="144" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y115.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y115.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5371530</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">13ff237d26829bbba6cf7677914263c5</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298354303000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:11:11:416</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">671416</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4486">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="7" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4480" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="24" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="119" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="7" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="40" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="31" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y116.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y116.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">13149751</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">683f6750c98715b7b9f28d2506590c6d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291657386000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:27:23:694</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1643694</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4747">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="28" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4738" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="28" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="148" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="30" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="97" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="68" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:27 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y117.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y117.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9402538</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ab59e26193e17420543055e1963a47c1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291386919000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:19:35:292</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1175292</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4540">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4535" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="38" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="129" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="8" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="76" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="63" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1993_Audio/1993-Y118.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1993-Y118.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">32357901</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9292c0f7e03648b9381deac1c2985c92</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1299298498000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:7:24:713</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">4044713</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4775">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="56" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4767" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="57" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="125" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="60" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="209" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="31" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="132" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X113.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X113.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7585878</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0abe1e1068166a548a7a7d89fd906137</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291902523000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:15:48:210</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">948210</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4536">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4532" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="117" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="10" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="73" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="58" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X114.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X114.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4404791</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b5aa65589f440ef30a347472d8ee838f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291903274000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:9:10:574</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">550574</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="3740">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="22" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="3736" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="40" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="122" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="61" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="56" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X115.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X115.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9603994</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">caac57f49db7fc9d597c2ec930ff2597</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291904960000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:20:0:474</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1200474</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4650">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4648" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="23" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="134" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="5" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="58" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="41" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X116.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X116.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30784285</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">09a89cee0525628af3b13487e6d72652</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291914476000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:4:8:11</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3848011</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4532">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="30" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4528" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="22" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="183" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="32" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="143" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="2" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="94" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X117.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X117.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">40942992</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">26176bfe18edf148262e92cc6dd0e828</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291920864000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:25:17:849</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">5117849</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4557">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="48" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4553" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="50" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="149" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="51" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="253" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="169" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-X118.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-X118.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">43601630</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8823c5713382116237c25d8ec5ab1b67</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291927421000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:30:50:179</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">5450179</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4605">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="25" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4599" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="38" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="167" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="241" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="129" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1994_Audio/1994-Y109.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1994-Y109.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9991024</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4457fdf794dd40abc56dc1aab07d541a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1290630499000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:20:48:853</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1248853</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4519">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="52" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4515" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="128" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="54" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="130" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="27" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="108" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1995_Audio/1995-X119.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1995-X119.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">36492771</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5fe5e16d3be8856d06ac4db328264a67</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291991957000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:16:1:572</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">4561572</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4651">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4648" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="28" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="159" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="19" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="203" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="97" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1995_Audio/1995-X120.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1995-X120.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">42910535</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d4959627207c7b22b3168d27893ce3bb</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292001786000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:29:23:792</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">5363792</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4639">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4636" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="31" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="135" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="27" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="222" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="132" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:29 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1995_Audio/1995-X121.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1995-X121.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28857493</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">780bdcc4b0f81d40c03dbfe39a4115d2</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292007488000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:0:7:162</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3607162</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4736">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4733" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="23" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="134" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="22" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="154" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="98" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1997_Audio/1997-Y110.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1997-Y110.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">901457</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">44bbf214b6a31cdec2af89c7ddfe043a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1290628656000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:1:52:657</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">112657</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="811">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="32" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="806" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="115" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="36" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="34" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="20" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="32" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1999_Audio/1999-Y111.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1999-Y111.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">393846</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1882fa2ff77f8084a9058b0a7f28e651</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298354258000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:0:49:206</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">49206</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="459">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="51" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="439" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="109" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="168" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="63" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="44" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="34" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="61" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1999_Audio/1999-Y112.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1999-Y112.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">22812967</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0d70d88f284bd1273439e1e09ceda146</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291135274000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:47:31:596</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">2851596</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="5212">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="564" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="5162" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="1019" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="1001" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="954" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="418" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="952" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="795" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:29 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/2001_Audio/2001-Y113.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2001-Y113.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30075426</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bf0653990855652b2c0d425787d80ed3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1291727653000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">1:2:39:403</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3759403</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4744">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="4" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4740" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="22" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="123" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="8" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="161" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="85" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/2008_Audio/2008-Z101.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2008-Z101.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6991122</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0555bc1aa611deda194ccc92e00e21b9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292334339000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:14:33:865</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">873865</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4589">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="36" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4576" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="90" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="131" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="48" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="96" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="27" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="87" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/2008_Audio/2008-Z102.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2008-Z102.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">24392226</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">86d30af6b0be6193930353dfd4d7fe6e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1292334129000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:50:49:3</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3049003</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4734">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="22" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4718" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="73" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="168" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="32" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="146" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="88" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.5</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/19</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">203323</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Office Excel® 2007/Microsoft® Office Excel® 2007</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Office Excel 2007/Microsoft Office Excel 2007</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:01:18 19:20:38</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-01-18T19:20:38Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2011:01:18 19:20:38</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1-Index_to_Audio_Clips/Index_to_Audio_Clips.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Index_to_Audio_Clips.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f70b2968833247871241fec8707090d5</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1295396438000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <author toolname="Jhove" toolversion="1.16" status="CONFLICT">Robert C. Varga</author>
+      <author toolname="Exiftool" toolversion="10.00" status="CONFLICT">Microsoft® Office Excel® 2007</author>
+      <language toolname="Jhove" toolversion="1.16">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">2</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Calibri</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Calibri,Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1044">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="38" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="198" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="80" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="147" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="272" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="30" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="33" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1026" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:26 AM">
+  <identification status="CONFLICT">
+    <identity format="Office Open XML Document" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">2007 onwards</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/189</externalIdentifier>
+    </identity>
+    <identity format="Microsoft Excel 2007+" mimetype="application/vnd.ms-excel" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="Office Open XML Workbook" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">2011-01-19T00:19:59Z</lastmodified>
+    <creatingApplicationName toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">Microsoft Excel</creatingApplicationName>
+    <creatingApplicationVersion toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">12.0000</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/1-Index_to_Audio_Clips/Index_to_Audio_Clips.xlsx</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Index_to_Audio_Clips.xlsx</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">13011</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0c6a79bfb60877499695caf85507e016</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1295396399000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="727">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="12" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="176" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="208" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="2" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="720" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/Year_Unidentified/X123.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">X123.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2614045</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b9e827957e7aef19a94d6fc4b32473d7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298354260000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:5:26:731</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">326731</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="2242">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="5" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="2239" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="33" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="126" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="7" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="18" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="12" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/7/19 9:28 AM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to process/rbrl-273-er-000001_Audio Clips/objects/Year_Unidentified/X124.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">X124.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28599612</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">16da7f0650d28767fce60d208707f0a9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1298354274000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:59:34:927</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">64 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">64000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">22050</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3574927</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">22050</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="4616">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="4612" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="32" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="137" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="21" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="160" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="3" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="96" />
+  </statistics>
+</fits>
+
+</combined-fits>

@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3037404</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:12:28</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:12:28</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:12:28</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/016.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">016.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">34a3c2560072acd076c9a200b7556100</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507150000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.02</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/51</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="281">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="37" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="48" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="49" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="262" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="53" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="45" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="62" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2125990</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:12:46</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:12:46</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:12:46</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/017.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">017.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c51f81d52c4cd114e456d9b6e45e62e4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507166000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0333</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.03333333333333333</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/32</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="357">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="49" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="62" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="72" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="338" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="70" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="47" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="74" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2220791</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:13:10</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:13:10</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:13:10</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/018.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">018.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5d09cd5ce4f2283b430da1ddaa8a5bdd</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507194000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">3216</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">4288</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0333</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.03333333333333333</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">100</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/32</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash fired, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">100</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="678">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="90" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="555" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="474" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="585" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="537" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="77" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="422" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="406" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2920482</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:13:48</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:13:48</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:13:48</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/019.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">019.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">419e029cad25d15a84ee7938a01ffc42</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507232000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.008</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/128</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="454">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="38" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="96" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="74" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="392" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="97" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="35" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="65" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2214700</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:14:06</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:14:06</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:14:06</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/020.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">020.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cc19bcab06ff887b858799c7f0ab3634</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507246000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">3216</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">4288</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.002</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/512</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">13</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="346">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="35" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="44" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="56" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="317" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="59" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="39" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="62" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:49 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3656817</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:14:27</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:14:27</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:14:27</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/021.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">021.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cdde317601fda967b4707ed7d256bcf1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507268000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.004</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/256</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">12</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="297">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="32" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="28" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="33" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="277" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="31" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="35" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="52" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1766967</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:14:39</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:14:39</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:14:39</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/022.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">022.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8493a8fb15f76cf6b4306810b0080735</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507282000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0031</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.003125</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/323</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">12</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="302">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="65" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="55" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="64" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="281" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="85" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="60" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="86" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3995862</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:15:03</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:15:03</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:15:03</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/023.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">023.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b83531ed5ab44f38d962bcb8d56fd012</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507306000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.0125</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/81</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="334">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="121" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="78" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="62" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="304" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="81" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="119" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="36" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="146" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1818031</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:15:19</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:15:19</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:15:19</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/024.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">024.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e8fab21153737005f7c128030a856489</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507320000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.01</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/102</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="290">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="24" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="54" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="54" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="269" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="54" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="24" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="52" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3346274</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:15:47</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:15:47</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:15:47</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/025.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">025.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e624c30c005566f43a8ea69180ffa3d6</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507350000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0031</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.003125</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/323</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">12</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="289">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="34" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="35" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="34" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="270" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="40" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="39" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="55" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2485110</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:16:20</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:16:20</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:16:20</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/026.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">026.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b51ed94231760c71f8b88eb707e1c430</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507382000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">3216</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">4288</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.008</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/128</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="275">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="28" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="34" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="257" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="42" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="23" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="45" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3372839</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:16:46</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:16:46</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:16:46</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/027.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">027.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">41c22c12353f239c7370dfc3d8426061</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507408000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.008</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/128</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="276">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="42" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="33" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="26" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="257" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="50" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="46" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="65" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3330424</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:16:55</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:16:55</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:16:55</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/028.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">028.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7210e6470189a5b567c1e7c16c4d2195</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507418000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.01</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/102</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="280">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="33" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="25" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="36" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="263" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="28" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="33" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="55" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3537814</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:17:49</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:17:49</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:17:49</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/029.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">029.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">bf7fa6e829bd5da04e2df835e92da8a4</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507470000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.008</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/128</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="335">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="85" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="86" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="69" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="305" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="85" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="83" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="28" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="105" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3506600</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:18:39</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:18:39</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:18:39</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/030.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">030.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">573dc1343a8e8f5c9f22373e462e91b9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507520000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0167</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.016666666666666666</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/64</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="326">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="38" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="305" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="42" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="25" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="44" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3359575</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:18:53</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:18:53</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:18:53</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/031.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">031.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ce37a36e5d513c8cf0f65f1075584d06</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507536000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0167</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.016666666666666666</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/64</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="283">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="24" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="30" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="35" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="265" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="36" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="30" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="48" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification status="SINGLE_RESULT">
+    <identity format="Quicktime" mimetype="video/quicktime" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/384</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/032.MOV</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">032.MOV</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">79656078</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3ad018b9570400297b868d07734729c3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308507558000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="365">
+    <tool toolname="MediaInfo" toolversion="18.03" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="208" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="48" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="362" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" status="did not run" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">3454647</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:32:09</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:32:09</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:32:09</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/033.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">033.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">99cf5cd2784e4a1f203b95a23bff6696</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308508330000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.002</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/512</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">13</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="310">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="52" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="52" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="287" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="60" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="49" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="70" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">2.2.1</version>
+      <version toolname="file utility" toolversion="5.11" status="CONFLICT">2.21</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/645</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2954259</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">KODAK EASYSHARE M580 DIGITAL CAMERA</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2011:06:19 14:32:25</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2011-06-19T14:32:25</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2011:06:19 14:32:25</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/034.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">034.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f59a15099c6a1ef91d1f4e516fc86870</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1308508352000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">4288</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">3216</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 2</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">1</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">480</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">480</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">EASTMAN KODAK COMPANY</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">KODAK EASYSHARE M580 DIGITAL CAMERA</digitalCameraModelName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.4</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00">0.01</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">80</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0221</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1/102</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</apertureValue>
+      <apertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</apertureValue>
+      <brightnessValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">11</brightnessValue>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">3.2</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.4</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">5.2</focalLength>
+      <exposureIndex toolname="Exiftool" toolversion="10.00">80</exposureIndex>
+      <sensingMethod toolname="Exiftool" toolversion="10.00">One-chip color area sensor</sensingMethod>
+      <brightnessvalue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">3737910</brightnessvalue>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="308">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="65" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="67" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="66" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="289" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="78" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="65" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="18" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="89" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="7/25/18 12:48 PM">
+  <identification>
+    <identity format="PDF/A" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1a</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/95</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">132964</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16" status="CONFLICT">Microsoft® Word 2010/Microsoft® Word 2010</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Microsoft Word 2010/Microsoft Word 2010</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2018:07:16 10:06:23-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2018-07-16T14:06:23Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2018:07:16 10:06:23-04:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/russell-protoaips-to-package-and-ingest/rbrl-436-er-000006_Savannah Blue Print Co Ogeechee River and Pipe Photos and Video/objects/rbrl436cd002_RemovalSheet.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">rbrl436cd002_RemovalSheet.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a882de8f2c7e3465a3ecce35452aaebf</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1531749986000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">RICHARD B. RUSSELL LIBRARY</title>
+      <author toolname="Jhove" toolversion="1.16">jkl</author>
+      <language toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">en-US</language>
+      <pageCount toolname="Jhove" toolversion="1.16">1</pageCount>
+      <isTagged toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesȀNewȀRoman,BoldItalic</fontName>
+      </font>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="667">
+    <tool toolname="MediaInfo" toolversion="18.03" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="13" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="183" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="43" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="150" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="92" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="5" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="662" />
+  </statistics>
+</fits>
+
+</combined-fits>

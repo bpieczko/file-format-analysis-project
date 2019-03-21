@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:49 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">2.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/391</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1150141</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00" status="CONFLICT">E4300</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">E4300v1.5</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:04:08 14:45:19</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-04-08T14:45:19</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2004:04:08 14:45:19</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000063_Pictures/objects/DSCN1406.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DSCN1406.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3ac1bd076e10690eecd61b67e180375f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073489652000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">2272</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">1704</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 1</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">2</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">300</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">NIKON</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300</digitalCameraModelName>
+      <scanningSoftwareName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300v1.5</scanningSoftwareName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.5</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0167</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.016666666666666666</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">100</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0220</exifVersion>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">2.8</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.0</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash fired, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">13.2</focalLength>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="645">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="162" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="542" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="498" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="559" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="527" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="149" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="412" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="506" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:49 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">2.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/391</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1157084</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00" status="CONFLICT">E4300</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">E4300v1.5</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:04:08 14:46:15</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-04-08T14:46:15</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2004:04:08 14:46:15</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000063_Pictures/objects/DSCN1407.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DSCN1407.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c326e43507293353ece3b8d7d026f019</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073489652000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">2272</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">1704</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 1</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">2</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">300</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">NIKON</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300</digitalCameraModelName>
+      <scanningSoftwareName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300v1.5</scanningSoftwareName>
+      <fNumber toolname="Exiftool" toolversion="10.00">3.5</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0167</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.016666666666666666</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">100</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0220</exifVersion>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">2.8</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.0</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash fired, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">13.2</focalLength>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="263">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="149" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="125" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="135" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="226" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="118" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="147" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="24" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="198" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:49 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Droid" toolversion="6.3">2.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/391</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1204917</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00" status="CONFLICT">E4300</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">E4300v1.5</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:04:08 14:47:16</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-04-08T14:47:16</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00">2004:04:08 14:47:16</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000063_Pictures/objects/DSCN1408.JPG</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DSCN1408.JPG</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">85ff684382eebe48123aa23505888845</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073489652000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">2272</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">1704</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2 1</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">2</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">300</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">NIKON</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300</digitalCameraModelName>
+      <scanningSoftwareName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300v1.5</scanningSoftwareName>
+      <fNumber toolname="Exiftool" toolversion="10.00">7.6</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0167</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.016666666666666666</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">100</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0220</exifVersion>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">2.8</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.0</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash fired, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">8.0</focalLength>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="356">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="161" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="173" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="174" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="286" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="155" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="161" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="52" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="290" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:49 PM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <version toolname="Exiftool" toolversion="10.00">1.02</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">2313878</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00" status="CONFLICT">E4300</creatingApplicationName>
+    <creatingApplicationName toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">Adobe Photoshop 7.0</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">1970:10:20 14:46:04</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">1970-10-20T14:46:04</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:07:13 18:09:02</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">1970:10:20 14:46:04</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000063_Pictures/objects/onions.jpg</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">onions.jpg</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">204ce84deb865b4a241952e76b15c0a1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1081322140000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <compressionScheme toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">JPEG (old-style)</compressionScheme>
+      <imageWidth toolname="Exiftool" toolversion="10.00">1704</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="10.00">2272</imageHeight>
+      <iccProfileName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">sRGB IEC61966-2.1</iccProfileName>
+      <iccProfileVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2.1.0</iccProfileVersion>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1 1</YCbCrSubSampling>
+      <YCbCrPositioning toolname="Exiftool" toolversion="10.00">2</YCbCrPositioning>
+      <orientation toolname="Exiftool" toolversion="10.00">normal*</orientation>
+      <samplingFrequencyUnit toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Exiftool" toolversion="10.00">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Exiftool" toolversion="10.00">300</ySamplingFrequency>
+      <bitsPerSample toolname="Exiftool" toolversion="10.00">8 8 8</bitsPerSample>
+      <captureDevice toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">digital still camera</captureDevice>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">NIKON</digitalCameraManufacturer>
+      <digitalCameraModelName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">E4300</digitalCameraModelName>
+      <scanningSoftwareName toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">Adobe Photoshop 7.0</scanningSoftwareName>
+      <fNumber toolname="Exiftool" toolversion="10.00">2.8</fNumber>
+      <exposureTime toolname="Exiftool" toolversion="10.00" status="CONFLICT">0.0054</exposureTime>
+      <exposureTime toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">0.005437737901033171</exposureTime>
+      <exposureProgram toolname="Exiftool" toolversion="10.00">Normal program</exposureProgram>
+      <isoSpeedRating toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">100</isoSpeedRating>
+      <exifVersion toolname="Exiftool" toolversion="10.00">0220</exifVersion>
+      <exposureBiasValue toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0</exposureBiasValue>
+      <maxApertureValue toolname="Exiftool" toolversion="10.00" status="CONFLICT">2.8</maxApertureValue>
+      <maxApertureValue toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">3.0</maxApertureValue>
+      <meteringMode toolname="Exiftool" toolversion="10.00">Pattern</meteringMode>
+      <lightSource toolname="Exiftool" toolversion="10.00">unknown</lightSource>
+      <flash toolname="Exiftool" toolversion="10.00">Flash did not fire, auto mode</flash>
+      <focalLength toolname="Exiftool" toolversion="10.00">8.0</focalLength>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="351">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="100" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="155" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="153" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="191" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="109" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="238" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="23" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="320" />
+  </statistics>
+</fits>
+
+</combined-fits>

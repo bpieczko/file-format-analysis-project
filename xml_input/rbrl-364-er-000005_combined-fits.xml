@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output">
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 8:45 PM">
+  <identification status="CONFLICT">
+    <identity format="RAR Archive" mimetype="application/vnd.rar" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">2.9</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/411</externalIdentifier>
+    </identity>
+    <identity format="RAR archive data, v1d, flags: Archive volume, os: Unix" mimetype="application/x-rar" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="RAR" mimetype="application/x-rar-compressed" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+    <identity format="RAR archive" mimetype="application/x-rar-compressed" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2014:11:14 11:17:26</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-364-er-000005_Fireside CRM Export 2 of 2 HD001/objects/documents.part2.rar</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">documents.part2.rar</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4300000000</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6a52e3a29ae055f99cb0a7126f44f8ae</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415997407000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="66449">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="265" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="54691" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="752" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="54692" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="25836" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="691" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="66388" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="2/11/19 8:45 PM">
+  <identification status="CONFLICT">
+    <identity format="RAR Archive" mimetype="application/vnd.rar" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">2.9</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/411</externalIdentifier>
+    </identity>
+    <identity format="RAR archive data, v1d, flags: Archive volume, os: Unix" mimetype="application/x-rar" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+    <identity format="RAR" mimetype="application/x-rar-compressed" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+    </identity>
+    <identity format="RAR archive" mimetype="application/x-rar-compressed" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2014:11:14 11:56:12</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/mnt/687d8ee3-98ed-42db-84e6-5918b508de87/russell/format-analysis-project/aips/to-be-extracted/rbrl-364-er-000005_Fireside CRM Export 2 of 2 HD001/objects/documents.part3.rar</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">documents.part3.rar</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">210132615</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">98e4fe5e4ed79e61d90bc79335b2493f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1415997423000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="35904">
+    <tool toolname="MediaInfo" toolversion="18.12" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="160" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="5014" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="286" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="35891" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="1158" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="156" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="1522" />
+  </statistics>
+</fits>
+
+</combined-fits>

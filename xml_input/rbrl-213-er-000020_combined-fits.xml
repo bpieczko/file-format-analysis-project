@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:31 PM">
+  <identification>
+    <identity format="Extensible Markup Language" mimetype="text/xml" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="OIS XML Metadata" toolversion="0.2" />
+      <version toolname="Jhove" toolversion="1.16">1.0</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">729</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000020_notes/objects/dwSiteColumnsMe.xml</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">dwSiteColumnsMe.xml</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0463c824a9ee9fe0f46cdd01d4d641b8</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1048118326000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <text>
+      <charset toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">UTF-8</charset>
+      <markupBasis toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">XML</markupBasis>
+      <markupBasisVersion toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">1.0</markupBasisVersion>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="538">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="82" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="509" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="520" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="480" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="449" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="86" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" executionTime="83" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="454" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="335" />
+  </statistics>
+</fits>
+
+</combined-fits>

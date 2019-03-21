@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:48 PM">
+  <identification>
+    <identity format="MPEG 1/2 Audio Layer 3" mimetype="audio/mpeg" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="NLNZ Metadata Extractor" toolversion="3.6GA">1</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/134</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000057_iraq/objects/iraq.mp3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">iraq.mp3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2842272</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">89c65c0819293ad6da4194c20e4c2d43</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073582646000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">0:2:57:629</duration>
+      <bitRate toolname="Exiftool" toolversion="10.00" status="CONFLICT">128 kbps</bitRate>
+      <bitRate toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">128000</bitRate>
+      <sampleRate toolname="Exiftool" toolversion="10.00">44100</sampleRate>
+      <channels toolname="Exiftool" toolversion="10.00">2</channels>
+      <milliseconds toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">177629</milliseconds>
+      <sampleRate toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">44100</sampleRate>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="1441">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="86" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="1416" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="127" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="206" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="619" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="444" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="19" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="449" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 7:48 PM">
+  <identification>
+    <identity format="RealMedia" mimetype="application/vnd.rn-realmedia" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/190</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:07:01 15:54:55</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:07:01 15:54:55</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-213-er-000057_iraq/objects/Iraq.rm</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Iraq.rm</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">484020</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5e1fc2b3916befefa694712d9748a3ac</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1073515190000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <audio>
+      <duration toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">0:02:57</duration>
+      <maxPacketSize toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">607</maxPacketSize>
+      <avgPacketSize toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">395</avgPacketSize>
+      <numPackets toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1181</numPackets>
+      <software toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">Cleaner 5 for Macintosh</software>
+    </audio>
+  </metadata>
+  <statistics fitsExecutionTime="692">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="102" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="662" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="429" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="429" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="100" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="381" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="103" />
+  </statistics>
+</fits>
+
+</combined-fits>
